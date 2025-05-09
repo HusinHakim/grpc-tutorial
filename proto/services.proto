@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package grpc_tutorial; 
+package services;
 
 // Service for processing payments
 service PaymentService {
